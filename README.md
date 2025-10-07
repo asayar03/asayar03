@@ -2,7 +2,7 @@
 
 I'm a backend developer with a strong focus on **PHP** and **Symfony**, currently deepening my expertise in **Python** aswell.  
 I build reliable, maintainable systems with clean architecture and clear domain boundaries.  
-Furthermore I am a loyal member of the VIM community. :)
+Furthermore I study computer science while working full-time and am a loyal member of the VIM community. :)
 
 ## 🧰 Tech Stack
 **Languages:** PHP, Python, JavaScript  

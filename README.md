@@ -6,8 +6,8 @@ Furthermore I am a loyal member of the VIM community. :)
 
 ## 🧰 Tech Stack
 **Languages:** PHP, Python, JavaScript  
-**Frameworks:** Symfony, Django
-**Databases:** MySQL, Redis
+**Frameworks:** Symfony, Django  
+**Databases:** MySQL, Redis  
 **Tools:** Docker, Git, Linux, Vim  
 
 ## 🧠 Interests

@@ -14,7 +14,7 @@ Furthermore I study computer science while working full-time and am a loyal memb
 - Domain-driven design and clean code architecture  
 - Backend performance and scalability  
 - Developer tooling and productivity workflows  
-- Exploring Python for data and backend services  
+- Exploring Python & PHP for data and backend services  
 
 ## 📫 Feel free to contact me on these platforms
 - 💼 [LinkedIn](https://linkedin.com/in/aaron-pascal-sayar-7a02211a6)  

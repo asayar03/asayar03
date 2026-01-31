@@ -6,7 +6,7 @@ Furthermore I study computer science while working full-time and am a loyal memb
 
 ## 🧰 Tech Stack
 **Languages:** PHP, Python, JavaScript  
-**Frameworks:** Symfony, Django  
+**Frameworks:** Symfony
 **Databases:** MySQL, Redis  
 **Tools:** Docker, Git, Linux, Vim  
 
